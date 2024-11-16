@@ -65,3 +65,6 @@ Bu uygulama, localStorage kullanarak notları tarayıcıda saklar. localStorage,
 - localStorage yalnızca tarayıcıda veri saklar, bu yüzden farklı cihazlarda veya tarayıcılarda veriler erişilemez.
 - Veri saklama kapasitesi sınırlıdır (genellikle 5MB).
 - localStorage'a kaydedilen veriler yalnızca metin (string) formatında olmalıdır. JavaScript objeleri veya dizileri saklamak için bu veriler JSON formatına dönüştürülmelidir.
+
+## Demo:
+Uygulamaya buradan ulaşabilirsiniz: https://6738945e5a707d51d7f0e13c--melike-note-app.netlify.app/
